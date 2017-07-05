@@ -1,0 +1,13 @@
+body {
+    background-color: gold;
+}
+
+h1 {
+    color:darkblue;
+    text-align: center;
+}
+
+p {
+    font-family: comic;
+    font-size: 20px;
+}
