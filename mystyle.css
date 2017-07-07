@@ -1,13 +1,14 @@
 body {
-    background-color: gold;
+    background-color: navy;
 }
 
 h1 {
-    color:darkblue;
+    color:gold;
     text-align: center;
 }
 
 p {
     font-family: comic;
     font-size: 20px;
+    color: silver;
 }
