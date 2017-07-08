@@ -1,5 +1,6 @@
 body {
-    background-color: navy;
+
+    background-image: url("https://i.ytimg.com/vi/dCfO59qo2lM/maxresdefault.jpg");
 }
 
 h1 {
@@ -10,5 +11,5 @@ h1 {
 p {
     font-family: comic;
     font-size: 20px;
-    color: silver;
+    color: Black;
 }
